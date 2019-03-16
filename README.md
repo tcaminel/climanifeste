@@ -61,6 +61,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Clément Bruneteau](https://twitter.com/clembruneteau), sysadmin
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
+* [Thierry Caminel] (https://github.com/tcaminel), AI Technology Leader
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
 * [Julien Castelneau](https://twitter.com/CastelneauJ), développeur
 * [Luc Chaffard](http://lucchaffard.com), designer produit
